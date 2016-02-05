@@ -45,19 +45,86 @@ h3 {
 }
 
 /* Germany */
+#germany div {
+  height: 115px;
+  width: 800px;
+}
+
+#box1g {
+  background-color: black;
+}
+
+#box2g {
+  background-color: red;
+}
+#box3g {
+  background-color: yellow;
+}
 
 
 /* Lithuania */
+#lithuania div {
+  height: 115px;
+  width: 800px;
+}
+
+#box1l {
+  background-color: yellow;
+}
+
+#box2l {
+  background-color: green;
+}
+#box3l {
+  background-color: red;
+}
 
 /* Yemen */
+#yemen div {
+  height: 115px;
+  width: 800px;
+
+}
+
+#box1y {
+  background-color: red;
+margin: 1px 1px 116px;
+}
+
+
+#box2y {
+  background-color: black;
+}
+
 
 /* The Gambia */
+#gambia div {
+  height: 100px;
+  width: 800px;
 
-/* Yemen */
+}
 
-/* The Gambia */
+#box1ga {
+  background-color: red;
+margin-bottom: 20px;
+}
+
+#box2ga {
+  background-color: blue;
+margin-bottom: 20px;
+}
+
+
+#box3ga {
+  background-color: green;
+}
+
+
+
+
 
 /* Chad */
+
 
 /* France */
 
@@ -67,7 +134,7 @@ h3 {
 
 /* Denmark */
 
-/* Norway */ 
+/* Norway */
 
 /* Greece */
 
