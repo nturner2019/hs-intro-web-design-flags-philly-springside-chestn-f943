@@ -227,6 +227,7 @@ h3 {
   width: 150px;
   height: 125px;
   margin-bottom: 20px;
+
 }
 
 #D2 {
@@ -244,6 +245,95 @@ h3 {
   width: 300px;
   height: 125px;
 }
+
+#Norway
+#Nleft {
+  float: left;
+  margin-right: 20px;
+}
+
+#Nright {
+  float: left;
+
+}
+#Nleft div {
+  margin-right: 0px;
+}
+
+
+#N1 {
+  width: 150px;
+  height: 125px;
+  margin-bottom: 10px;
+  background-color:red;
+
+}
+
+#N2 {
+  width: 160px;
+  height: 30px;
+  background-color:blue;
+}
+#N5 {
+  width: 150px;
+  height: 125px;
+  background-color:red;
+  margin-top:10px;
+}
+
+#N3 {
+  width: 250px;
+  height: 125px;
+  margin-bottom: 10px;
+  background-color:red;
+
+}
+#N6 {
+  width: 260px;
+  height: 30px;
+   background-color:blue;
+
+}
+
+#N4 {
+  width: 250px;
+  height: 125px;
+   background-color:red;
+  margin-top:10px;
+
+}
+#N7 {
+  width: 30px;
+  height: 299px;
+  background-color:blue;
+  margin-left:160px;
+
+
+
+
+
+
+
+
+}
+#all{
+  float:left;
+}
+
+#box1{
+  margin-left:10px;
+}
+#box2{
+  margin-left:10px;
+}
+
+
+
+
+
+
+}
+
 
 
 
