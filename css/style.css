@@ -327,14 +327,111 @@ h3 {
   margin-left:10px;
 }
 
+#Greece
 
+#Gleft {
+  float: left;
 
+}
+
+#Gright {
+  float: right;
+  margin-right: 300px;
+}
+
+#R1 {
+  width: 300px;
+  height: 30px;
+  background-color:#045FB4;
+  margin-bottom:30px;
+
+}
+#R2 {
+  width: 300px;
+  height: 30px;
+  background-color:#045FB4;
+  margin-bottom:30px;
+}
+#R3 {
+  width: 300px;
+  height: 30px;
+  background-color:#045FB4;
+  margin-bottom:30px;
+}
+#R4 {
+  width: 300px;
+  height: 30px;
+  background-color:#045FB4;
+  margin-bottom:30px;
+}
+#R5 {
+  width: 300px;
+  height: 30px;
+  background-color:#045FB4;
+
+}
+
+#Gleft1{
+  float:left;
+}
+#R10 {
+  width: 85px;
+  height: 60px;
+  margin-bottom: 30px;
+  background-color:#045FB4;
 
 
 
 }
 
+#R11 {
+  width: 85px;
+  height: 60px;
+   margin-bottom: 30px;
+  background-color:#045FB4;
 
+}
+#Gleft2{
+  float:right;
+}
+
+#R12 {
+  width: 85px;
+  height: 60px;
+  margin-left:20px;
+  margin-bottom: 30px;
+  background-color:#045FB4;
+
+}
+
+#R13 {
+  width: 85px;
+  height: 60px;
+   margin-left:20px;
+    margin-bottom:30px;
+  background-color:#045FB4;
+
+}
+
+#R14 {
+width: 200px;
+  height: 30px;
+  background-color:#045FB4;
+  margin-bottom:30px;
+}
+#R15 {
+width:200px;
+  height: 30px;
+  background-color:#045FB4;
+  margin-bottom:30px;
+}
+#Gleft12{
+  float:left;
+}
+
+#G {
+  margin-bottom:30px;
+}
 
 
 le
